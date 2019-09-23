@@ -1,2 +1,0 @@
-MainPackage=C:\Users\Nico\Documents\dev\temp\uwp_kiosk\uwp_kiosk\bin\x64\Debug\uwp_kiosk_3.0.3.0_x64_Debug.appx
-SymbolPackage=C:\Users\Nico\Documents\dev\temp\uwp_kiosk\uwp_kiosk\AppPackages\uwp_kiosk_3.0.3.0_Debug_Test\uwp_kiosk_3.0.3.0_x64_Debug.appxsym

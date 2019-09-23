@@ -1,1 +1,0 @@
-C:\Users\Nico\Documents\dev\temp\uwp_kiosk\uwp_kiosk\uwp_kiosk.csproj;x86
