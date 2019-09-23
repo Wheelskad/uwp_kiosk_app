@@ -3,7 +3,7 @@ A test application whose purpose is to test the management of files with extensi
 
 # AssignedAccessConfiguration file configuration to manage kiosk mode
 Exemple of configuration which we use to allow excel to manage .xls file extension 
-
+```
 <AllAppsList>
 	<AllowedApps>
 		<App AppUserModelId="00d942cd-665a-4b7a-ba27-2f2b9c0d2792_kwmcxzszfer2y!App" />
@@ -12,3 +12,4 @@ Exemple of configuration which we use to allow excel to manage .xls file extensi
 		<App DesktopAppPath="%SystemDrive%\Program Files\Microsoft Office\root\Office16\EXCEL.EXE" />
 	</AllowedApps>
 </AllAppsList>
+```
